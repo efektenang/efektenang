@@ -3,8 +3,8 @@
 Perkenalkan nama saya **Muhammad Arizky**.\
 Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Muhammadiyah Sumatera Utara](https://umsu.ac.id/).
 
-Saat ini saya sedang menjalankan pendidikan di progam Kampus Merdeka, **Bangkit Academy 2022**.\
-Jangan lupa kungjungi [LinkedIn](https://www.linkedin.com/in/muhammad-arizki-ba8b38231/) ku yaa😄
+Saat ini saya sedang menjalankan pendidikan di program Kampus Merdeka, **[Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/)**.\
+Jangan lupa kunjungi [LinkedIn](https://www.linkedin.com/in/muhammad-arizki-ba8b38231/) ku yaa😄
 
 
 <!--
