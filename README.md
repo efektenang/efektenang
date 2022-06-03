@@ -9,7 +9,7 @@ I'm currently studying at Kampus Merdeka's program, **[Bangkit Academy 2022](htt
 Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/muhammad-arizki-ba8b38231/) 😄
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
+- ✨ Web Development
 - ✨ Networking
 
 ### - Hobbies : 
