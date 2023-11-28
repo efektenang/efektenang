@@ -26,7 +26,7 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css3" width="120">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" width="120">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js@2x.png" alt="javascript" height="35">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java"  width="100">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react"  width="100">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/php.png" alt="php"  width="100" hight="50">
 
 </br>
