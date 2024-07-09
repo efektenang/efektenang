@@ -3,7 +3,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old and Information System Alumni at [University Muhammadiyah of North Sumatra](https://umsu.ac.id).
+### - I'm a Web Developer and Information System Alumni at [University Muhammadiyah of North Sumatra](https://umsu.ac.id).
 
 I'm currently studying at Kampus Merdeka's program, **[Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/)**.\
 Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/muhammad-arizki/) 😄
