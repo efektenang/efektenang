@@ -35,7 +35,7 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap.png" alt="bootstrap" height="40">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="nodejs" height="40">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/npm.png" alt="NPM" height="40">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/laravel.png" alt="Laravel" height="40">
 </p>
 </br>
 </br>
