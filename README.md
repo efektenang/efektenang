@@ -9,38 +9,21 @@ I'm currently studying at Kampus Merdeka's program, **[Bangkit Academy 2022](htt
 Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/muhammad-arizki/) 😄
 
 ### - Learning :
-- ✨ Web Development
-- ✨ Networking
+- 🚀 Fullstack Web Development
+- 🚀 IT Networking
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime and Podcasts
-- ✨ Musics
+- 🎮 Gaming
+- 🤖 Watching Anime and Podcasts
+- 🎸 Musics
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
 
 <p align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=linux,ts,nodejs,react,nextjs,nest,express,php,laravel,gcp,docker,mongodb,postgres)](https://skillicons.dev)
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css3" width="120">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" width="120">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js@2x.png" alt="javascript" height="35">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react"  width="100">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/php.png" alt="php"  width="100" hight="50">
-
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240">
-</br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap.png" alt="bootstrap" height="40">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="nodejs" height="40">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/laravel.png" alt="Laravel" height="40">
-</p>
-</br>
-</br>
-</br>
-
+##
 
 <p align="left">
 <a href="https://github.com/efektenang">
