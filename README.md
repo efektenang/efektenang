@@ -32,6 +32,8 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
 </a>
 </p>
 
+![Efektenang's GitHub stats](https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true&theme=transparent)
+
 
 <!--
 **efektenang/efektenang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
