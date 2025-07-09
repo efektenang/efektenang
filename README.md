@@ -17,7 +17,7 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
 - 🤖 Watching Anime and Podcasts
 - 🎸 Musics
 
-# Languages & Tools 👨‍💻 🛠:
+# Tech Stack & Tools 👨‍💻 🛠:
 
 <p align="center">
   
