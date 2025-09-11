@@ -27,7 +27,7 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
 
 <p align="left">
 <a href="https://github.com/efektenang">
-  <picture>
+<!--   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -37,8 +37,8 @@ Don't forget to visit and connect to my [LinkedIn](https://www.linkedin.com/in/m
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true" />
-  </picture>
-  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=efektenang&layout=compact&langs_count=8&theme=algolia"/>
+  </picture> -->
+<!--   <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=efektenang&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
