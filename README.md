@@ -32,26 +32,6 @@ I am a **Web Developer** and an Information System alumnus from **Universitas Mu
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/efektenang">
-<!--   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=efektenang&show_icons=true" />
-  </picture> -->
-<!--   <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=efektenang&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
-</p>
-
----
-
 ### 🎸 Beyond Coding
 When I'm not in front of a terminal, you can find me:
 - 🎮 Gaming & exploring virtual worlds.
